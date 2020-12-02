@@ -1,7 +1,6 @@
 # ECE 4122 Fall 2020 Final Project - Pac-Man Game
 
 **Author** Jackson McMath
-`jmcmath3` | `903300636`
 
 ## Introduction
 
